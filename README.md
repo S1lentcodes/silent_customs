@@ -1,2 +1,2 @@
-# Svelte Template
-## Work in progress to explain the different parts of this svelte template.
+# Simple customs ui
+## Do what ever you want with this idc.
